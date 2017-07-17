@@ -348,4 +348,5 @@
     <migrationTask xmi:id="_oJXTe2rDEee_YZlhaEgjAw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_mlvkkmrDEee_YZlhaEgjAw" login="talendadmin@ascensia.com" firstName="security" lastName="security" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_tuBSAGrHEeeFr4mZiUxRBQ" login="bhaskar.dhone@capgemini.com" firstName="Bhaskar" lastName="Dhone" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
