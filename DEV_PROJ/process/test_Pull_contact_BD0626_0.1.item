@@ -119,8 +119,8 @@
     <elementParameter field="CLOSED_LIST" name="MS_CRM_VERSION" value="CRM_2011" show="false"/>
     <elementParameter field="TEXT" name="ENDPOINTURL" value="&quot;https://ascensiaglobaltest.crm.dynamics.com/XRMServices/2011/Organization.svc &quot;" show="false"/>
     <elementParameter field="TEXT" name="ORGNAME" value="&quot;orgc174cda2&quot;"/>
-    <elementParameter field="TEXT" name="USERNAME" value="&quot;alok.bedi@ascensia.com&quot;"/>
-    <elementParameter field="PASSWORD" name="PASSWORD" value="Sd5pQcVnDL/Qnjvj+7gECQ=="/>
+    <elementParameter field="TEXT" name="USERNAME" value="&quot;rajesh.balakrishnan@ascensia.com&quot;"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" value="mJxHXZpywXd4PtylITdU2w=="/>
     <elementParameter field="TEXT" name="DOMAIN" value="&quot;192.168.0.22&quot;" show="false"/>
     <elementParameter field="TEXT" name="HOST" value="&quot;192.168.0.22&quot;" show="false"/>
     <elementParameter field="TEXT" name="DISC_WSDL" value="&quot;https://disco.crm.dynamics.com/XRMServices/2011/Discovery.svc&quot;"/>
